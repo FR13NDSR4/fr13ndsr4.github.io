@@ -1,0 +1,4 @@
+Sitemap: https://fr13ndsr4.github.io/sitemap.xml
+Host: frustis.ru
+Disallow:
+User-agent: *
